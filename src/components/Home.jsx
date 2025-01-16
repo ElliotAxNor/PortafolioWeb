@@ -41,7 +41,7 @@ export default function Home() {
                         <div className="icons">
                             <a className="button-cv" href="src/assets/Curriculum.pdf" target="_blank">
                                 <IoReader/>
-                                Curriculum vitae
+                                Curriculum
                             </a>
                             <a className="icon-contact" href="https://github.com/ElliotAxNor" target="_blank">
                                 <FaGithub/>
@@ -56,7 +56,7 @@ export default function Home() {
                     </div>
                     <div>
                         <picture>
-                            <img srcSet="src/assets/foto.webp" alt="Foto" type="image/webp" />
+                            <img srcSet="../assets/foto.webp" alt="Foto" type="image/webp" />
                         </picture>
                     </div>
                 </div>
