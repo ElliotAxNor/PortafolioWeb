@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+:root {
+  --font-primary: 'Poppins', sans-serif;
+  --font-secondary: 'Roboto Condensed', sans-serif;
+
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-primary);
+}
+
+/* Colores tema claro */
+body{
+  --yellow: rgb(175, 164, 0);
+  /* Colores principales */
+  --background-color: #e9f1fa;
+  --primary-color: #00abe4;
+  --secondary-color: #008cb3;
+  --accent-color: #76d7ff;
+  /* Texto */
+  --text-color: #1d1d1f;
+  --muted-text-color: #6b7988;
+
+  /* Bordes y sombras */
+  --border-color: #b0d4e7;
+  --border-color-rgb: 176, 212, 231;
+  --shadow-color: #39445a;
+}
+
+/* Colores tema oscuro */
+body.dark-mode{
+  --yellow: rgba(255, 255, 0, 0.493);
+  /* Colores principales */
+  --background-color: #000;
+  --primary-color: #2272ff;
+  --secondary-color: #0056b3;
+  --accent-color: #4a9dff;
+  /* Texto */
+  --text-color: #ffffff;
+  --muted-text-color: #757575;
+  /* Bordes y sombras */
+  --border-color: #39445a;
+  --border-color-rgb: 57, 68, 90;
+  --shadow-color: #e9f1fa;
+}
+
+body {
+  font-family: var(--font-secondary);
+  background-color: var(--background-color);
+  margin: 0;
+  color: var(--text-color);
+  overflow-x: hidden
+}
