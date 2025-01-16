@@ -7,7 +7,7 @@ export default function Experience(){
                     <div className="card-experience">
                         <div className="card-header">
                             <div className="section-logo">
-                                <img src="src/assets/labsol.webp" href="https://labsol.cozcyt.gob.mx" alt="Logo LABSOL"/>
+                                <img src="/assets/labsol.webp" href="https://labsol.cozcyt.gob.mx" alt="Logo LABSOL"/>
                                 <span>-</span>
                                 <p>Full-stack developer</p>
                             </div>

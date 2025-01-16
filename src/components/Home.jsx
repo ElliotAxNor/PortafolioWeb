@@ -39,7 +39,7 @@ export default function Home() {
                             Feel free to explore and learn more about my work!
                         </p>
                         <div className="icons">
-                            <a className="button-cv" href="src/assets/Curriculum.pdf" target="_blank">
+                            <a className="button-cv" href="/assets/ICPC.pdf" target="_blank">
                                 <IoReader/>
                                 Curriculum
                             </a>
@@ -56,7 +56,7 @@ export default function Home() {
                     </div>
                     <div>
                         <picture>
-                            <img srcSet="../assets/foto.webp" alt="Foto" type="image/webp" />
+                            <img srcSet="/assets/foto.webp" alt="Foto" type="image/webp" />
                         </picture>
                     </div>
                 </div>

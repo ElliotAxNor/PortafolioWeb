@@ -8,7 +8,7 @@ export default function Education(){
                 <h1 id="Education">Education</h1>
                 <div className="education-body">
                     <picture>
-                        <img srcSet="src/assets/UAZ.svg" alt="Logo UAZ" type="image/webp" />
+                        <img srcSet="/assets/UAZ.svg" alt="Logo UAZ" type="image/webp" />
                     </picture>
                     <span className="line-vertical"></span>
                     <div className="info-container">
