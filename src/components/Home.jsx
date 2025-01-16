@@ -39,7 +39,7 @@ export default function Home() {
                             Feel free to explore and learn more about my work!
                         </p>
                         <div className="icons">
-                            <a className="button-cv" href="/assets/ICPC.pdf" target="_blank">
+                            <a className="button-cv" href="/assets/Curriculum.pdf" target="_blank">
                                 <IoReader/>
                                 Curriculum
                             </a>
