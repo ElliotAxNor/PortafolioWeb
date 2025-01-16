@@ -43,7 +43,6 @@ export default function AboutMe(){
                     <div className="skills">
                         <img src="/assets/Icons/Docker.svg" title="Docker" alt="Docker" />
                         <img src="/assets/Icons/Git.svg" title="Git" alt="Git" />
-                        <img src="/assets/Icons/Github.svg" title="Github" alt="Github" />
                         <img src="/assets/Icons/Selenium.svg" title="Selenium" alt="Selenium" />
                     </div>
                 </div>

@@ -982,6 +982,10 @@
         justify-content: space-around;
     }
 
+    .home-header .icons .icon-contact{
+        margin-right: 0;
+    }
+
     .home-header .icons .button-cv{
         margin-right: 0;
     }
