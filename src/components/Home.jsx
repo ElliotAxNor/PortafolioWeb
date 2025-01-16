@@ -41,7 +41,7 @@ export default function Home() {
                         <div className="icons">
                             <a className="button-cv" href="src/assets/Curriculum.pdf" target="_blank">
                                 <IoReader/>
-                                Curriculum
+                                Curriculum vitae
                             </a>
                             <a className="icon-contact" href="https://github.com/ElliotAxNor" target="_blank">
                                 <FaGithub/>
