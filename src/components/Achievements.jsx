@@ -23,6 +23,24 @@ export default function Achievements(){
                             <p>Internet Computer Certification <br /> (<strong>2023</strong>)</p>
                         </div>
                     </div>
+                    <div className="achievement">
+                        <img src="/assets/Certifications/IA Essentials.webp" alt="IA Essentials" />
+                        <div className="container-info-doc">
+                            <a href="/assets/Certifications/IA Essentials.pdf" target="_blank" rel="noopener noreferrer">
+                                View Certificate
+                            </a>
+                            <p>Internet Computer Certification <br /> (<strong>2023</strong>)</p>
+                        </div>
+                    </div>
+                    <div className="achievement">
+                        <img src="/assets/Certifications/Spring.webp" alt="Spring" />
+                        <div className="container-info-doc">
+                            <a href="/assets/Certifications/Spring.pdf" target="_blank" rel="noopener noreferrer">
+                                View Certificate
+                            </a>
+                            <p>Internet Computer Certification <br /> (<strong>2023</strong>)</p>
+                        </div>
+                    </div>
                 </div>
             </section>
         </>
